@@ -1,0 +1,22 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+h4 {
+    text-align: center;
+    color: grey;
+}
+/* 取消文字链接的下划线 */
+a {
+    text-decoration: none;
+}
+/* 段首缩进2个文本字大小 */
+p {
+    text-indent: 2em;
+    line-height: 25px;
+}
+/* 让图片居中显示，把它看成文字，把img标签的父亲p标签居中 */
+.pic {
+    text-align: center;
+}
